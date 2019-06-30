@@ -16,7 +16,7 @@
 
 void showFontCallback();
 
-#define PROJECT_NAME "YOUTUBE-SUBSCRIBER-DISPLAY"
+#define PROJECT_NAME "YOUTUBE-SUBSCRIBER-DISPLAY2"
 #define TIME_ZONE (+2)
 #define DEBUG
 #ifdef DEBUG
